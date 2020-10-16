@@ -10,7 +10,7 @@ import { setTextFilter } from './actions/filters'
 import getVisibleExpenses from './selectores/expenses'
 import AppRouter from './routers/AppRouter'
 
-
+console.log('test')
 
 const store = configureStore()
 
